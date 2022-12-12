@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "egyszerű cserés", "egyszerű cserés\egyszerű cserés.csproj", "{A39526E5-2A66-4DD2-9C81-4F49387B33B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buborek", "buborek\buborek.csproj", "{E971F691-1786-4EE7-84D9-C73BB8A47908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "javitott buborek", "javitott buborek\javitott buborek.csproj", "{96EFBEC9-49D5-4F88-822C-3EE5EF4D913E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beszuro rendezes", "beszuro rendezes\beszuro rendezes.csproj", "{6D210FA6-A8F2-44CF-B460-94198C0963B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "javitott beszuro rendezes", "javitott beszuro rendezes\javitott beszuro rendezes.csproj", "{1DAEDA15-5949-4A10-9F39-57A25B447518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minimum kivalasztas", "minimum kivalasztas\minimum kivalasztas.csproj", "{57CF5248-D0BD-4037-A627-65254F22305A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A39526E5-2A66-4DD2-9C81-4F49387B33B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39526E5-2A66-4DD2-9C81-4F49387B33B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39526E5-2A66-4DD2-9C81-4F49387B33B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39526E5-2A66-4DD2-9C81-4F49387B33B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E971F691-1786-4EE7-84D9-C73BB8A47908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E971F691-1786-4EE7-84D9-C73BB8A47908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E971F691-1786-4EE7-84D9-C73BB8A47908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E971F691-1786-4EE7-84D9-C73BB8A47908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96EFBEC9-49D5-4F88-822C-3EE5EF4D913E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EFBEC9-49D5-4F88-822C-3EE5EF4D913E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EFBEC9-49D5-4F88-822C-3EE5EF4D913E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EFBEC9-49D5-4F88-822C-3EE5EF4D913E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D210FA6-A8F2-44CF-B460-94198C0963B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D210FA6-A8F2-44CF-B460-94198C0963B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D210FA6-A8F2-44CF-B460-94198C0963B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D210FA6-A8F2-44CF-B460-94198C0963B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DAEDA15-5949-4A10-9F39-57A25B447518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAEDA15-5949-4A10-9F39-57A25B447518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAEDA15-5949-4A10-9F39-57A25B447518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAEDA15-5949-4A10-9F39-57A25B447518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CF5248-D0BD-4037-A627-65254F22305A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CF5248-D0BD-4037-A627-65254F22305A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CF5248-D0BD-4037-A627-65254F22305A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CF5248-D0BD-4037-A627-65254F22305A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5A2264A-86CF-4B1E-9F3F-52C87C5DD633}
+	EndGlobalSection
+EndGlobal
